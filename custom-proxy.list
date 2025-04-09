@@ -25,4 +25,4 @@ IP-CIDR6,2405:b500::/32,no-resolve
 IP-CIDR6,2405:8100::/32,no-resolve
 IP-CIDR6,2a06:98c0::/29,no-resolve
 IP-CIDR6,2c0f:f248::/32,no-resolve
-DOMAIN-SUFFIX,api.ipify.org
+#DOMAIN-SUFFIX,api.ipify.org
