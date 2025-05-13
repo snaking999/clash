@@ -1,4 +1,5 @@
 #DOMAIN-SUFFIX,nflxvideo.ne
+DOMAIN-SUFFIX,liberty.edu
 #DOMAIN-KEYWORD,youtube
 #PROCESS-NAME,org.telegram.messenger
 #IP-CIDR,149.154.160.0/20,no-resolve
