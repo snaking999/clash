@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
 DOMAIN-SUFFIX,services.live.com
 DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
-
 # --- Phone Link / Cross-Device Experience ---
 DOMAIN-SUFFIX,graph.microsoft.com
 DOMAIN-SUFFIX,substrate.office.com
@@ -21,20 +20,18 @@ DOMAIN-SUFFIX,devices.microsoft.com
 DOMAIN-SUFFIX,device.login.microsoftonline.com
 DOMAIN-SUFFIX,enterpriseregistration.windows.net
 DOMAIN-SUFFIX,client.badger.trafficmanager.net
-
 # --- Windows WNS & SignalR 实时管道 ---
 DOMAIN-SUFFIX,wns.windows.com
 DOMAIN-SUFFIX,notify.windows.com
 DOMAIN-SUFFIX,gateway.msg.microsoft.com
 DOMAIN-SUFFIX,messaging.microsoft.com
 DOMAIN-SUFFIX,activity.windows.com
-
 # --- 微软身份验证与通用底层服务 ---
 DOMAIN-SUFFIX,login.microsoftonline.com
 DOMAIN-SUFFIX,login.live.com
 DOMAIN-SUFFIX,account.live.com
 DOMAIN-SUFFIX,config.edge.skype.com
-
+# --- other ---
 DOMAIN-SUFFIX,api.oplist.org
 DOMAIN-SUFFIX,auth.xiaoya.pro
 DOMAIN-SUFFIX,nxog.top
